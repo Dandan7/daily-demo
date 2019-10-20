@@ -16,7 +16,7 @@
 
 ### 3. 原生js——模拟聊天框功能
 >[在线演示](https://dandan7.github.io/js-demo/%E8%BF%B7%E4%BD%A0%E8%81%8A%E5%A4%A9%E6%A1%86/wechat.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[源代码](https://github.com/Dandan7/js-demo/tree/master/%E8%BF%B7%E4%BD%A0%E8%81%8A%E5%A4%A9%E6%A1%86) <br/>   <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/js-demo/wechat.JPG" width="500"/>
+[源代码](https://github.com/Dandan7/js-demo) <br/>   <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/js-demo/wechat.JPG" width="500"/>
 
 ### 4. 原生js——贪吃蛇项目
 [在线演示](https://dandan7.github.io/snake/%E5%8E%9F%E7%94%9Fjs%E5%AE%9E%E7%8E%B0%E8%B4%AA%E5%90%83%E8%9B%87%E9%A1%B9%E7%9B%AE/index.html)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
