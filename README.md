@@ -4,8 +4,10 @@
 [在线演示](https://dandan7.github.io/web/#/)<br/>
 [源代码](https://github.com/Dandan7/web)
 #### 2. 模仿京东商城的静态网页制作
+
 [在线演示](https://dandan7.github.io/Basic_test/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E9%9D%99%E6%80%81%E4%BA%AC%E4%B8%9C%E5%95%86%E5%9F%8Edemo/index.html)<br/>
 [源代码](https://github.com/Dandan7/Basic_test/tree/master/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E9%9D%99%E6%80%81%E4%BA%AC%E4%B8%9C%E5%95%86%E5%9F%8Edemo)
+![图片](https://github.com/Dandan7/daily-demo/tree/master/screen/jd-screen/1.JPG)
 #### 3. 原生js——模拟聊天框功能
 [在线演示](https://dandan7.github.io/js-demo/%E8%BF%B7%E4%BD%A0%E8%81%8A%E5%A4%A9%E6%A1%86/wechat.html)<br/>
 [源代码](https://github.com/Dandan7/js-demo/tree/master/%E8%BF%B7%E4%BD%A0%E8%81%8A%E5%A4%A9%E6%A1%86)
