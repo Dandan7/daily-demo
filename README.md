@@ -9,9 +9,9 @@
 <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/vue-cNode-screen/reply.JPG" width="500" title="评论区"/>
 
 ### 2.两种方法实现轮播图
-> (1)原生js实现
+> (1)原生js实现 <br/>
 [在线演示](https://dandan7.github.io/js-demo/%E8%BD%AE%E6%92%AD%E5%9B%BE/demo_01.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[源代码](https://github.com/Dandan7/js-demo/tree/master/%E8%BD%AE%E6%92%AD%E5%9B%BE)
-> jQuery实现
+> (2)jQuery实现 <br/>
 [在线演示](https://dandan7.github.io/js-demo/%E8%BD%AE%E6%92%AD%E5%9B%BE/demo_02.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[源代码](https://github.com/Dandan7/js-demo/tree/master/%E8%BD%AE%E6%92%AD%E5%9B%BE)
 
 ### 3. 原生js——模拟聊天框功能
