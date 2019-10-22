@@ -6,7 +6,6 @@
 <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/vue-cNode-screen/首页.JPG" width="500" title="首页"/>
 <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/vue-cNode-screen/user.JPG" width="500" title="用户信息"/>
 <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/vue-cNode-screen/artice.JPG" width="500" title="文章详情页"/>
-<img src="https://github.com/Dandan7/daily-demo/raw/master/screen/vue-cNode-screen/reply.JPG" width="500" title="评论区"/>
 
 ### 2.两种方法实现轮播图
 (1)原生js实现:
