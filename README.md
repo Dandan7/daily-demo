@@ -20,7 +20,7 @@
 > [在线演示](https://dandan7.github.io/snake/%E5%8E%9F%E7%94%9Fjs%E5%AE%9E%E7%8E%B0%E8%B4%AA%E5%90%83%E8%9B%87%E9%A1%B9%E7%9B%AE/index.html)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [源代码](https://github.com/Dandan7/snake) <br/>
 
-### 2.模仿京东商城的静态网页制作
+### 5.模仿京东商城的静态网页制作
 >[在线演示](https://dandan7.github.io/Basic_test/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E9%9D%99%E6%80%81%E4%BA%AC%E4%B8%9C%E5%95%86%E5%9F%8Edemo/index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [源代码](https://github.com/Dandan7/Basic_test/tree/master/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E9%9D%99%E6%80%81%E4%BA%AC%E4%B8%9C%E5%95%86%E5%9F%8Edemo)<br/>
 <img src="https://github.com/Dandan7/daily-demo/raw/master/screen/jd-screen/1.JPG" width="500"/>
