@@ -1,12 +1,12 @@
 ## 日常小项目
 ### 1. React-todos
 >react记事本小项目，基本功能：<br/>
->（1）记录代办事件，回车即可将代办事件加入记事本<br/>
+>（1）记录待办事件，回车即可将待办事件加入记事本<br/>
 >（2）勾选事件列表前的小方框即可把当前事件从未完成切换为已完成状态，勾选最上方的下拉图标即可将列表中所有事件切换为已完成状态<br/>
->（3）鼠标悬浮在事件列表上即可最右方显示删除按钮，点击即可删除当前事件<br/>
+>（3）鼠标悬浮在事件列表上最右方即显示删除按钮，点击可删除当前事件<br/>
 >（4）下方all,active,completed按钮可分别切换全部事件，未完成事件，已完成事件<br/>
 >（5）clear按钮可删除当前所有已完成事件<br/>
-> 注：已完成只是改变样式和状态数据仍存在可恢复，删除事件不可恢复<br/>
+> 注：已完成只是改变样式和状态，数据仍存在可恢复；删除事件不可恢复<br/>
 >[在线演示](https://dandan7.github.io/React2/react-todo/my-app/build/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [源代码](https://github.com/Dandan7/React2/tree/master/react-todo)<br/>
 <img src="https://github.com/Dandan7/React2/raw/master/react-todo/my-app/screen/index.png" width="500" title="todos"/>
