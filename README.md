@@ -9,7 +9,7 @@
 > 注：已完成只是改变样式和状态数据仍存在可恢复，删除事件不可恢复<br/>
 >[在线演示](https://dandan7.github.io/React2/react-todo/my-app/build/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [源代码](https://github.com/Dandan7/React2/tree/master/react-todo)<br/>
-<img src="https://github.com/Dandan7/React2/react-todo/my-app/screen/index.png" width="500" title="首页"/>
+<img src="https://github.com/Dandan7/React2/raw/master/react-todo/my-app/screen/index.png" width="500" title="todos"/>
 
 ### 2. vue社区项目
 >根据CNode社区提供的API使用Vue2.x + Webpack + axios + Vue-router 实现了社区基础功能<br/>
